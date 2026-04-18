@@ -1,9 +1,12 @@
 DTL-RO — Dynamic Transport Logistics and Route Optimization Tool
 
 Team Details
-2500030291 → B. JYOTHI SRI
-2500030037 → P. SAI RUTHWIK
-2500010002 → B. PRAVEEN VIJAY
+
+****2500030291 → B. JYOTHI SRI**
+
+**2500030037 → P. SAI RUTHWIK**
+
+**2500010002 → B. PRAVEEN VIJAY****
 
 Project Brief 
 

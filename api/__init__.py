@@ -1,0 +1,1 @@
+# Small FastAPI demo module.
